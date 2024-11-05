@@ -25,7 +25,7 @@
                 <li> <i class="bx bx-check"></i> Fotos e vídeos do Passeio</li>
                 <li> <i class="bx bx-check"></i> Uma linda taça personalizada</li>
             </ul>
-            <a href="https://wa.me/5515997150101?text=Ola" class="btn">Confira agora</a>
+            <a href="https://wa.me/5511942558716?text=Ola" class="btn">Confira agora</a>
         </div>
         <div class="box"
         data-aos="zoom-in"
@@ -41,7 +41,7 @@
                 <li> <i class="bx bx-check"></i> Tenha um balão personalizado com sua marca e promova eventos corporativos incluindo voos cativos (voos experimentais onde o balão sobe até +- 30m de altura). </li>
             </ul>
             <div class="">
-                        <a href="https://wa.me/5515997150101?text=Ola" class="btn flex center">Confira agora</a></div>
+                        <a href="https://wa.me/5511942558716?text=Ola" class="btn flex center">Confira agora</a></div>
             </div>  
         <div class="box"
         data-aos="zoom-in"
@@ -64,7 +64,7 @@
                 <li> <i class="bx bx-check"></i> Fotos e vídeos do Passeio</li>
                 <li> <i class="bx bx-check"></i> Uma linda taça personalizada</li>
             </ul>
-            <a href="https://wa.me/5515997150101?text=Ola" class="btn " style="margin: 0;">Confira agora</a>
+            <a href="https://wa.me/5511942558716?text=Ola" class="btn " style="margin: 0;">Confira agora</a>
         </div>
     </div>
     </section>

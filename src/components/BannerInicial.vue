@@ -7,7 +7,7 @@
                     data-aos-easing="ease-in"
                     data-aos-duration="1000"
                     data-aos-delay="300">Voe com a  <span class="text-gradient">Meu Balão</span></h3>
-                    <a href="https://wa.me/5515997150101?text=Ola" class="btn"
+                    <a href="https://wa.me/11942558716?text=Ola" class="btn"
                     data-aos="zoom-in"
                     data-aos-easing="ease-in"
                     data-aos-duration="1000"
@@ -18,7 +18,7 @@
                     data-aos-easing="ease-in"
                     data-aos-duration="1000"
                     data-aos-delay="300">Melhor Voo <span class="text-gradient">Boituva</span></h3>
-                    <a href="https://wa.me/5515997150101?text=Ola" class="btn"
+                    <a href="https://wa.me/5511942558716?text=Ola" class="btn"
                     data-aos="zoom-in"
                     data-aos-easing="ease-in"
                     data-aos-duration="1000"
@@ -29,7 +29,7 @@
                     data-aos-easing="ease-in"
                     data-aos-duration="1000"
                     data-aos-delay="300">Você nas alturas com a <span class="text-gradient">Meu Balão</span></h3>
-                    <a href="https://wa.me/5515997150101?text=Ola" class="btn"
+                    <a href="https://wa.me/5511942558716?text=Ola" class="btn"
                     data-aos="zoom-in"
                     data-aos-easing="ease-in"
                     data-aos-duration="1000"
